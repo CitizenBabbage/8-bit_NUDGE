@@ -15,6 +15,14 @@ Our team at the School of Code bootcamp came together to address real-world issu
 
 ## **_Get Started!_**
 
+### **Demo**
+
+To run the online demo go to: 
+
+https://8bit-nudge.netlify.app/quiz
+
+The login takes dummy email addresses if you have privacy concerns. 
+
 ### **Front-end**
 
 To run the front-end locally, follow the steps below:
